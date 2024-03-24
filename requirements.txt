@@ -1,0 +1,5 @@
+# pip install --upgrade -r requirements.txt
+
+pandas
+scipy
+scikit-learn
