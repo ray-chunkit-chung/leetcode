@@ -7,7 +7,8 @@ tensorflow
 tensorflow-datasets
 tensorflow-recommenders
 tensorflow-recommenders-addons
+Jinja2
 keras
 ipykernel
 ipywidgets
-Jinja2
+matplotlib
