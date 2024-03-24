@@ -6,7 +6,7 @@ scikit-learn
 tensorflow
 tensorflow-datasets
 tensorflow-recommenders
-# tensorflow-recommenders-addons
+tensorflow-recommenders-addons
 keras
 ipywidgets
 Jinja2
