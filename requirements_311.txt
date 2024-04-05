@@ -1,0 +1,24 @@
+# python -m pip install --upgrade pip
+# pip install --upgrade -r requirements_311.txt
+pandas
+scipy
+scikit-learn
+tensorflow
+tensorflow-datasets
+tensorflow-recommenders
+Jinja2
+keras
+ipykernel
+ipywidgets
+matplotlib
+python-dotenv
+langchain
+langchain-openai
+spacy
+openai
+tiktoken
+sentence-transformers
+fugashi
+ipadic
+sentencepiece
+faiss-cpu
