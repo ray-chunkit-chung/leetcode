@@ -22,3 +22,5 @@ fugashi
 ipadic
 sentencepiece
 faiss-cpu
+datasets
+lightgbm
