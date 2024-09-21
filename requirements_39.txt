@@ -2,6 +2,7 @@
 # pip install --upgrade -r requirements_39.txt
 pandas
 scipy
+boto3
 scikit-learn
 tensorflow
 tensorflow-datasets
@@ -12,3 +13,4 @@ keras
 ipykernel
 ipywidgets
 matplotlib
+llama-index

@@ -3,6 +3,7 @@
 pandas
 scipy
 scikit-learn
+boto3
 tensorflow
 tensorflow-datasets
 tensorflow-recommenders
@@ -25,3 +26,4 @@ faiss-cpu
 lightgbm
 azure-storage-blob
 azure-identity
+ragas
